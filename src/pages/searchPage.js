@@ -57,7 +57,7 @@ const SearchPage = () => {
     <>
       <Header>
         <HeaderContainer>
-          <LogoText>Bookie</LogoText>
+          <LogoText>How long is this book</LogoText>
           <HeaderSearchForm>
             <BookSearchForm
               onSubmitHandler={onSubmitHandler}
